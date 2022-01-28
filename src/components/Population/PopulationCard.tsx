@@ -1,4 +1,4 @@
-import { convertToInternationalCurrencySystem } from '../../lib'
+import { convertToInternationalCurrencySystem } from '@/lib'
 
 interface PopulationCardProps {
   state: string,

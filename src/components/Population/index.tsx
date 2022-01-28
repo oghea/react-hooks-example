@@ -2,9 +2,9 @@ import { useQuery } from 'react-query';
 
 import PopulationCard from './PopulationCard';
 
-import { IPopulation, iResponse } from '../../model';
+import { IPopulation, iResponse } from '@/model';
 
-import { fetchPopulations } from '../../api/population'
+import { fetchPopulations } from '@/api/population'
 
 
 const PopulationCardWrapper: React.FC = () => {

@@ -1,4 +1,4 @@
-import Population from './components/Population';
+import Population from '@/components/Population';
 
 export default function App() {
   return (
